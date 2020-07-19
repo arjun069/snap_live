@@ -44,7 +44,7 @@
             android:layout_width="235dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="ChickenCam"
+            android:text="ice"
             android:textAlignment="center"
             android:textAllCaps="false"
             android:textColor="#FFEB3B"
